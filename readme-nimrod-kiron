@@ -1,0 +1,19 @@
+Contentsquare Lawn Mower Home Assignment
+
+Author: Nimrod Kir'on
+Submitted At: Nov. 15th 2020
+
+Written in: node.js\TypeScript
+Unit-tested with: Jest
+IDE used: Visual Studio Code, on Windows
+
+In order to run:
+- npm install
+- npm run build
+- npm run start
+- npm run test (for unit-testing)
+
+Notes:
+- Input and output are printed to console. Output is also printed to the 'output' file.
+- LawnMowerControl, which contains mowers' movement logic, is unit-tested.
+- Only code and assets are supplied. Please install dependencies and build before running the code.
